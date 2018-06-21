@@ -13,7 +13,8 @@ def least_coins(cents)
     d_r = (q_r - d*10) 
     n = (d_r)/5
     n_r = (q_r - n*5)
-    if 
+    cents = n_r
+    if cents = 0
     pen = (n/1)
   else
     q = cents / 25

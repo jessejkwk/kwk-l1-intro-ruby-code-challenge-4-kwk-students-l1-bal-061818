@@ -21,7 +21,7 @@ def least_coins(cents)
     d = (q_r)/10
     d_r = (q_r - d*10) 
     n = (d_r)/5
-    pen = (q_r - d_r)/1
+    pen = (q_r - n)/1
   end
   puts "The amount of quarters is #{q}"
   puts "The amount of dimes is #{d}"

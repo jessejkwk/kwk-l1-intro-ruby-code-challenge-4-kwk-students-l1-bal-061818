@@ -14,7 +14,7 @@ def least_coins(cents)
     n = (d_r)/5
     n_r = (q_r - n*5)
     cents_final = n_r
-    if cents = 0
+    if cents == 0
       pen = (n/1) - 1
     else
       pen = (n/1) - 1
